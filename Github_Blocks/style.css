@@ -1,0 +1,47 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.head {
+    text-align: center;
+}
+
+.main {
+    width: 70%;
+    height: 200px;
+    background-color: lightblue;
+    justify-content: space-evenly;
+    display: flex;
+    margin: 10px auto;
+    
+}
+
+.main img {
+    display: inline;
+}
+
+.body {
+    width: 70%;
+    height: 200px;
+    background-color:pink;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px auto;
+
+}
+
+.bottom {
+    width: 70%;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px auto;
+}
+
+.end {
+    text-align: center;
+}
+
+
